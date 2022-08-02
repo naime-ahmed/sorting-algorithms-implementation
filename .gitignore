@@ -1,3 +1,5 @@
 .vscode
 bubbleSort
 insertionSort
+selectionSort
+countingSort
